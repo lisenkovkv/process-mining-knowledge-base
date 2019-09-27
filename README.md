@@ -50,3 +50,46 @@ model. With the options provided by our plug-in, the difficulties of both fullym
 
 **Keywords:** 
 Process Mining, Process Discovery, Outlier Detection, Interactive Filtering, Quality Improvement
+
+* [Process Discovery using Classification Tree Hidden Semi-Markov Model](https://arxiv.org/ftp/arxiv/papers/1807/1807.04415.pdf)
+
+**Abstract**
+
+Various and ubiquitous information systems are being used in monitoring, exchanging, and collecting information. These systems are generating massive amount of event sequence logs that may help us understand underlying phenomenon. By analyzing these logs, we can learn process models that describe system procedures, predict the development of the system, or check whether the changes are expected. In this paper, we consider a novel technique that models these sequences of events in temporal-probabilistic manners. Specifically, we
+propose a probabilistic process model that combines hidden semi-Markov model and classification trees learning. Our experimental result shows that the proposed approach can answer a kind of question–“what are the most frequent sequence of system dynamics relevant to a given sequence of observable events?”. For example, “Given a series of medical treatments, what are the most relevant patients’ health condition pattern changes at different times?”
+
+**Keywords:** Hidden Semi-Markov Models, Classification and Regression Tree, Process Discovery, Temporal Data Mining
+
+* [Using Hidden Markov Models to Evaluate the Quality of Discovered Process Models](http://bpmcenter.org/wp-content/uploads/reports/2008/BPM-08-10.pdf)
+
+**Abstract**
+
+Hidden Markov Models (HMMs) are a stochastic signal modeling formalism that is actively used in the machine learning community
+for a wide range of applications such as speech and activity recognition.Efficient techniques exist to learn HMM models from a given data set, and to estimate the data likelihood with respect to a given HMM (i.e., “How probable is it that these data were produced by this HMM?”). The latter enables the evaluation and selection of suitable models. In the domain of process mining the evaluation of models (i.e., “How can we measure the quality of a mined process model?”) is still subject to ongoing research. Because the types of models used in process mining are typically on a higher level of abstraction (i.e., they are more expressive as
+they, for example, allow to capture concurrency), the problem of model evaluation is challenging. In this paper, we investigate the possibilities and limitations of using HMMs for evaluating process models and compare the resulting quality measurements to the metrics typically used in the process mining domain.
+
+* [Evaluating the Quality of Discovered Process Models](http://www.padsweb.rwth-aachen.de/wvdaalst/publications/p473.pdf)
+
+**Abstract**
+
+In the domain of process mining the evaluation of models (i.e., “How can we measure the quality of a mined process model?”) is
+still subject to ongoing research. Because the types of models used in process mining are typically on a higher level of abstraction (they, for example, allow to capture concurrency), the problem of model evaluation is challenging. In this paper, we elaborate on the problem of process model evaluation, and we evaluate both new and existing fitness metrics for different levels of noise. The new metrics and the noise generation are based on Hidden Markov Models (HMMs).
+
+* [A Novel Approach for Process Mining : Intentional Process Models Discovery](https://hal-paris1.archives-ouvertes.fr/hal-00994157v2/document)
+
+**Abstract**
+
+So far, process mining techniques have suggested to model processes in terms of tasks that occur during the enactment of a process. However, research on method engineering and guidance has illustrated that many issues, such as lack of flexibility or adaptation, are solved more effectively when intentions are explicitly specified. This paper presents a novel approach of process mining, called Map Miner Method (MMM). This method is designed to automate the construction of intentional process models from process logs. MMM uses
+Hidden Markov Models to model the relationship between users’ activities logs and the strategies to fulfill their intentions. The
+method also includes two specific algorithms developed to infer users’ intentions and construct intentional process model (Map)
+respectively. MMM can construct Map process models with different levels of abstraction (fine-grained and coarse-grained process models) with respect to the Map metamodel formalism (i.e., metamodel that specifies intentions and strategies of process actors). This paper presents all steps toward the construction of Map process models topology. The entire method is applied on a large-scale case study (Eclipse UDC) to mine the associated intentional process. The likelihood of the obtained process model shows a satisfying efficiency for the proposed method.
+
+**Keywords:** Intention-oriented Process Modeling, Process Mining, unsupervised learning
+
+* [Hidden Markov Model for Process Mining of Parallel Business Processes](https://pdfs.semanticscholar.org/d8db/ce6e94734983d83af0a8e380c4611dd3ba14.pdf)
+
+**Abstract**
+
+One of all the works on process mining is the process discovery which produces a representation of a parallel business process. This representation is called process model and it consists of sequence and parallel control-flow patterns. The parallel control-flow patterns contain XOR, AND, and OR relations. Hidden Markov Model is rarely used to represent a process model since XOR, AND and OR relations are not visible. In Hidden Markov Model, the control-flow patterns are represented by probabilities of state transitions. This research proposes an algorithm consisting in a process discovery based on Hidden Markov Model. This algorithm contains equations and rules: the equations are used to differentiate XOR, AND, and OR relations, while the rules are used to establish the process model utilizing detected control-flow patterns. The experiment results show that the proposed algorithm obtain the right control-flow patterns in the process model. The paper demonstrates that the fitness of process models obtained by the proposed algorithm are relatively higher respect to those obtained by Heuristics Miner and Timebased Heuristics Miner algorithms. This paper also shows that the validity of process models obtained by the proposed algorithm are better than those obtained by other algorithms. 
+
+**Keywords:** Fitness, Hidden Markov Model, Parallel Business Process, Process Mining, Validity
