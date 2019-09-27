@@ -1,1 +1,1 @@
-# process_mining
+# Process mining
