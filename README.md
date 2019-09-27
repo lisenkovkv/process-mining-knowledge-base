@@ -28,6 +28,20 @@ Therefore, the final goal of this knowledge endeavour still remains the same of 
 awareness and confidence about process mining methods
 
 ## Publications
+
+### Data preparation
+
+* [Developing Process Mining ToolsAn Implementation of Sequence Clustering for ProM](https://fenix.tecnico.ulisboa.pt/downloadFile/395139038542/Resumo_Alargado_54276.pdf)
+
+**Abstract**
+
+The goal of process mining is to discover process models from event logs. However, for processes that are not well structured and have
+a lot of diverse behavior, existing process mining techniques generate highly complex models that are often difficult to understand; these are called spaghetti models. One way to try to understand these models is to divide the log into clusters in order to analyze reduced sets of cases. However, the amount of noise and ad-hoc behavior present in real-world logs still poses a problem, as this type of behavior interferes with the clustering and complicates the models of the generated clusters, affecting the discovery of patterns. In this work we present an approach that aims at overcoming these difficulties by extracting only the useful data and presenting it in an understandable manner. The solution has been implemented in ProM and is divided in two stages: preprocessing and sequence clustering. We illustrate the approach in a case study where it becomes possible to identify behavioral patterns even in the presence of very diverse and confusing behavior.
+
+**Key words:** Process Mining, Preprocessing, Sequence Clustering, ProM, Markov Chains, Event Logs, Hierarchical Clustering, Process Models
+
+
+### Model quality
 * [Filtering Toolkit: Interactively Filter Event Logs to Improve the Quality of Discovered Models](http://www.alessandroberti.it/interactive_filtering.pdf)
 
 **Abstract** 
@@ -59,6 +73,8 @@ Various and ubiquitous information systems are being used in monitoring, exchang
 propose a probabilistic process model that combines hidden semi-Markov model and classification trees learning. Our experimental result shows that the proposed approach can answer a kind of question–“what are the most frequent sequence of system dynamics relevant to a given sequence of observable events?”. For example, “Given a series of medical treatments, what are the most relevant patients’ health condition pattern changes at different times?”
 
 **Keywords:** Hidden Semi-Markov Models, Classification and Regression Tree, Process Discovery, Temporal Data Mining
+
+### Hidden Markov Models
 
 * [Using Hidden Markov Models to Evaluate the Quality of Discovered Process Models](http://bpmcenter.org/wp-content/uploads/reports/2008/BPM-08-10.pdf)
 
@@ -93,3 +109,12 @@ respectively. MMM can construct Map process models with different levels of abst
 One of all the works on process mining is the process discovery which produces a representation of a parallel business process. This representation is called process model and it consists of sequence and parallel control-flow patterns. The parallel control-flow patterns contain XOR, AND, and OR relations. Hidden Markov Model is rarely used to represent a process model since XOR, AND and OR relations are not visible. In Hidden Markov Model, the control-flow patterns are represented by probabilities of state transitions. This research proposes an algorithm consisting in a process discovery based on Hidden Markov Model. This algorithm contains equations and rules: the equations are used to differentiate XOR, AND, and OR relations, while the rules are used to establish the process model utilizing detected control-flow patterns. The experiment results show that the proposed algorithm obtain the right control-flow patterns in the process model. The paper demonstrates that the fitness of process models obtained by the proposed algorithm are relatively higher respect to those obtained by Heuristics Miner and Timebased Heuristics Miner algorithms. This paper also shows that the validity of process models obtained by the proposed algorithm are better than those obtained by other algorithms. 
 
 **Keywords:** Fitness, Hidden Markov Model, Parallel Business Process, Process Mining, Validity
+
+* [Coupled Hidden Markov Model for Process Mining of Invisible Prime Tasks](https://lbeifits.files.wordpress.com/2018/03/9555-17553-1-pb-chmm.pdf)
+
+**Abstract**
+
+Process mining provides process improvement in a variety of application domains. A primary focus of process mining is transferring information from event logs into process model. One of the issues of process mining is dealing with invisible prime tasks. An invisible prime task is an additional task in the process model to assist in showing real processes. However, a few of algorithm solves the issue. This research proposes an algorithm for dealing with invisible prime tasks. The proposed algorithm contains rules and equations utilizing probability of state transition of Coupled Hidden Markov and double time-stamped in event logs. The rules and equations are
+used for determining invisible prime tasks and parallel control-flows patterns. In addition to dealing with invisible prime tasks, the experiment results also show that the proposed algorithm obtains right parallel control-flow patterns from non-complete event logs. This proposed algorithm also decreases usage of the invisible prime task in A# algorithm without reducing the quality of discovered process models. It has proven with the fitness of process models obtained by the proposed algorithm are relatively high as those obtained by A# algorithm.
+
+**Keywords:** Coupled Hidden Markov Model, Double Time-stamped Event Log, Fitness, Invisible Prime Tasks, Process Mining
