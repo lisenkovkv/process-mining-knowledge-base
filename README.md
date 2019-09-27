@@ -5,6 +5,9 @@
 ## Conferences
 * https://icpmconference.org
 
+## Competitions
+* [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge) 
+
 ## Courses
 * https://www.futurelearn.com/courses/process-mining
 * https://www.coursera.org/learn/process-mining
@@ -29,7 +32,7 @@ awareness and confidence about process mining methods
 
 ## Publications
 
-### Data preparation
+### Data preprocessing
 
 * [Developing Process Mining ToolsAn Implementation of Sequence Clustering for ProM](https://fenix.tecnico.ulisboa.pt/downloadFile/395139038542/Resumo_Alargado_54276.pdf)
 
