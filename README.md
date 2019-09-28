@@ -1,12 +1,20 @@
 # Process mining
 ## Core resourses
+* [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
 * http://www.processmining.org/
 
 ## Conferences
 * https://icpmconference.org
 
+## Videos
+* [Process Mining Data Science in Action - Wil van der Aalst](https://youtu.be/kIeLaNzw9hI)
+
+## Research divisions
+* [Laboratory of Process-Aware Information Systems](https://pais.hse.ru/en/)
+
 ## Competitions
-* [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge) 
+* [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge)
+* [Conformance Checking Challenge 2019](https://icpmconference.org/2019/icpm-2019/contests-challenges/1st-conformance-checking-challenge-2019-ccc19/)
 
 ## Courses
 * https://www.futurelearn.com/courses/process-mining
@@ -30,7 +38,7 @@ performance management practices based on real data, extracted from IT systems.
 Therefore, the final goal of this knowledge endeavour still remains the same of the first edition, which is to contribute to build
 awareness and confidence about process mining methods
 
-## Publications
+## Papers
 
 ### Data preprocessing
 
