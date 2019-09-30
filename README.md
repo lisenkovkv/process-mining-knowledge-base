@@ -17,8 +17,9 @@
 * [Conformance Checking Challenge 2019](https://icpmconference.org/2019/icpm-2019/contests-challenges/1st-conformance-checking-challenge-2019-ccc19/)
 
 ## Courses
-* https://www.futurelearn.com/courses/process-mining
-* https://www.coursera.org/learn/process-mining
+* [INTRODUCTION TO PROCESS MINING WITH PROM](https://www.futurelearn.com/courses/process-mining)
+* [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
+* [PROCESS MINING IN HEALTHCARE](https://www.futurelearn.com/courses/process-mining-healthcare)
 
 ## Software
 * [PM4PY](http://pm4py.org/)
