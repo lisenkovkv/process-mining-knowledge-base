@@ -13,7 +13,7 @@
 * [Laboratory of Process-Aware Information Systems](https://pais.hse.ru/en/)
 
 ## Books
-* [https://www.springer.com/gp/book/9783319564265](A Primer on Process Mining. Practical Skills with Python and Graphviz)
+* [https://www.springer.com/gp/book/9783319564265](A Primer on Process Mining.Practical Skills with Python and Graphviz)
 
 ## Competitions
 * [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge)
