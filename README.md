@@ -12,14 +12,17 @@
 ## Research divisions
 * [Laboratory of Process-Aware Information Systems](https://pais.hse.ru/en/)
 
+## Books
+* [https://www.springer.com/gp/book/9783319564265](A Primer on Process Mining. Practical Skills with Python and Graphviz)
+
 ## Competitions
 * [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge)
 * [Conformance Checking Challenge 2019](https://icpmconference.org/2019/icpm-2019/contests-challenges/1st-conformance-checking-challenge-2019-ccc19/)
 
 ## Courses
-* [INTRODUCTION TO PROCESS MINING WITH PROM](https://www.futurelearn.com/courses/process-mining)
+* [Introduction to process mining with ProM](https://www.futurelearn.com/courses/process-mining)
 * [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
-* [PROCESS MINING IN HEALTHCARE](https://www.futurelearn.com/courses/process-mining-healthcare)
+* [Process mining in healthcare](https://www.futurelearn.com/courses/process-mining-healthcare)
 
 ## Software
 * [PM4PY](http://pm4py.org/)
