@@ -15,11 +15,14 @@
 * [Laboratory of Process-Aware Information Systems](https://pais.hse.ru/en/)
 
 ## Books
-* [rocess Mining: Data Science in Action](http://www.processmining.org/book/start)
+* [Process Mining: Data Science in Action](http://www.processmining.org/book/start)
 * [A Primer on Process Mining.Practical Skills with Python and Graphviz](https://www.springer.com/gp/book/9783319564265)
 
 ## Competitions
 * [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge)
+* [Second International Business Process Intelligence Challenge (BPIC’12)](https://www.win.tue.nl/bpi/doku.php?id=2012:challenge)
+* [Third International Business Process Intelligence Challenge (BPIC’13)](https://www.win.tue.nl/bpi/doku.php?id=2013:challenge)
+* [Fourth International Business Process Intelligence Challenge (BPIC’14)](https://www.win.tue.nl/bpi/doku.php?id=2014:challenge)
 * [Conformance Checking Challenge 2019](https://icpmconference.org/2019/icpm-2019/contests-challenges/1st-conformance-checking-challenge-2019-ccc19/)
 
 ## Courses
