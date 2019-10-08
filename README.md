@@ -57,4 +57,4 @@
 * [Assessing Big Data SQL Frameworks for Analyzing Event Logs; Classifying Processes Instances Using Recurrent Neural Networks; Exploiting Event Log Event Attributes in RNN Based Prediction; Structural Feature Selection from Event Logs](https://github.com/mhinkka/articles)
 * [MINERful](https://github.com/cdc08x/MINERful)
 * [Comprehensive Process Drift Detection with Visual Analytics (VDD technique)](https://github.com/yesanton/Process-Drift-Visualization-With-Declare)
-* [pmbot - A Telegram Bot for Process Mining tasks (https://andrea.burattin.net/public-files/publications/2019-bpm-demo.pdf)](https://github.com/delas/pmbot)
+* [pmbot - A Telegram Bot for Process Mining tasks](https://github.com/delas/pmbot), [paper](https://andrea.burattin.net/public-files/publications/2019-bpm-demo.pdf)
