@@ -47,6 +47,7 @@
 * [ProM](http://www.promtools.org/)
 * [Disco](https://fluxicon.com/disco/)
 * [ProcessExplorer](https://fileserver.tk.informatik.tu-darmstadt.de/AS/processexplorer/)
+* [Business Process Analysis in R](https://www.bupar.net/)
 
 ## Reviews
 * [Process Mining: A DATABASE OF APPLICATIONS](https://www.win.tue.nl/ieeetfpm/lib/exe/fetch.php?media=news:process_mining_database_applications_2018b.pdf)
