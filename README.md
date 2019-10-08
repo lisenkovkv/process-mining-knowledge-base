@@ -1,4 +1,9 @@
 # Process mining
+
+## Datasets
+* [Real life Event Logs](https://data.4tu.nl/repository/collection:event_logs_real)
+* [Synthetic Event Logs](https://data.4tu.nl/repository/collection:event_logs_synthetic)
+
 ## Core resourses
 * [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
 * http://www.processmining.org/
