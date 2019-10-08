@@ -43,7 +43,7 @@
 * [Process mining in healthcare](https://www.futurelearn.com/courses/process-mining-healthcare)
 
 ## Software
-* [PM4PY](http://pm4py.org/)
+* [PM4PY](http://pm4py.org/). PM4Py is a python library that supports (state-of-the-art) process mining algorithms in python. It is completely open source and intended to be used in both academia and industry projects.
 * [ProM](http://www.promtools.org/)
 * [Disco](https://fluxicon.com/disco/)
 * [ProcessExplorer](https://fileserver.tk.informatik.tu-darmstadt.de/AS/processexplorer/)
