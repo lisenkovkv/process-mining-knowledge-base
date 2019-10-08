@@ -47,7 +47,7 @@
 * [ProM](http://www.promtools.org/)
 * [Disco](https://fluxicon.com/disco/)
 * [ProcessExplorer](https://fileserver.tk.informatik.tu-darmstadt.de/AS/processexplorer/)
-* [Business Process Analysis in R](https://www.bupar.net/)
+* [bupaR](https://www.bupar.net/). bupaR is an open-source, integrated suite of R-packages for the handling and analysis of business process data. It currently consists of 8 packages, including the central package, supporting different stages of a process mining workflow.
 
 ## Reviews
 * [Process Mining: A DATABASE OF APPLICATIONS](https://www.win.tue.nl/ieeetfpm/lib/exe/fetch.php?media=news:process_mining_database_applications_2018b.pdf)
