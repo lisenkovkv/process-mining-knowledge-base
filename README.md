@@ -11,7 +11,7 @@
 * [IEEE CIS Task Force on Process Mining](https://www.win.tue.nl/ieeetfpm/doku.php)
 
 ## Conferences
-* https://icpmconference.org
+* [Process Mining Conference Series](https://icpmconference.org)
 
 ## Videos
 * [Process Mining Data Science in Action - Wil van der Aalst](https://youtu.be/kIeLaNzw9hI)
