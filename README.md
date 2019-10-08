@@ -44,7 +44,7 @@
 
 ## Software
 * [PM4PY](http://pm4py.org/). PM4Py is a python library that supports (state-of-the-art) process mining algorithms in python. It is completely open source and intended to be used in both academia and industry projects.
-* [ProM](http://www.promtools.org/). roM is an extensible framework that supports a wide variety of process mining techniques in the form of plug-ins. It is platform independent as it is implemented in Java, and can be downloaded free of charge. We welcome and support practical applications of ProM, and we invite researchers and developers to contribute in the form of new plug-ins.
+* [ProM](http://www.promtools.org/). ProM is an extensible framework that supports a wide variety of process mining techniques in the form of plug-ins. It is platform independent as it is implemented in Java, and can be downloaded free of charge. We welcome and support practical applications of ProM, and we invite researchers and developers to contribute in the form of new plug-ins.
 * [Disco](https://fluxicon.com/disco/)
 * [ProcessExplorer](https://fileserver.tk.informatik.tu-darmstadt.de/AS/processexplorer/)
 * [bupaR](https://www.bupar.net/). bupaR is an open-source, integrated suite of R-packages for the handling and analysis of business process data. It currently consists of 8 packages, including the central package, supporting different stages of a process mining workflow.
