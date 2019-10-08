@@ -8,6 +8,7 @@
 * [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
 * http://www.processmining.org/
 * [PM^2: a Process Mining Project Methodology](http://www.processmining.org/_media/blogs/pub2015/pm2_processminingprojectmethodology.pdf)
+* [IEEE CIS Task Force on Process Mining](https://www.win.tue.nl/ieeetfpm/doku.php)
 
 ## Conferences
 * https://icpmconference.org
