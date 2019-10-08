@@ -23,6 +23,12 @@
 * [Second International Business Process Intelligence Challenge (BPIC’12)](https://www.win.tue.nl/bpi/doku.php?id=2012:challenge)
 * [Third International Business Process Intelligence Challenge (BPIC’13)](https://www.win.tue.nl/bpi/doku.php?id=2013:challenge)
 * [Fourth International Business Process Intelligence Challenge (BPIC’14)](https://www.win.tue.nl/bpi/doku.php?id=2014:challenge)
+* [Fifth International Business Process Intelligence Challenge (BPIC’15)](https://www.win.tue.nl/bpi/doku.php?id=2015:challenge)
+* [Sixth International Business Process Intelligence Challenge (BPIC’16)](https://www.win.tue.nl/bpi/doku.php?id=2016:challenge)
+* [Seventh International Business Process Intelligence Challenge (BPIC’17)](https://www.win.tue.nl/bpi/doku.php?id=2017:challenge)
+* [Eighth International Business Process Intelligence Challenge (BPIC’18)](https://www.win.tue.nl/bpi/doku.php?id=2018:challenge)
+* [Ninth International Business Process Intelligence Challenge (BPIC’19)](https://icpmconference.org/2019/icpm-2019/contests-challenges/bpi-challenge-2019/)
+* [Process Discovery Contest](https://icpmconference.org/2019/process-discovery-contest)
 * [Conformance Checking Challenge 2019](https://icpmconference.org/2019/icpm-2019/contests-challenges/1st-conformance-checking-challenge-2019-ccc19/)
 
 ## Courses
