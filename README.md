@@ -6,8 +6,7 @@
 
 ## Core resourses
 * [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
-A manifesto is a "public declaration of principles and intentions" by a group of people. This manifesto is written by members and supporters of the IEEE Task Force on Process Mining. The goal of this task force is to promote the research, development, education,
-implementation, evolution, and understanding of process mining.
+This manifesto is written by members and supporters of the IEEE Task Force on Process Mining. The goal of this task force is to promote the research, development, education, implementation, evolution, and understanding of process mining.
 * http://www.processmining.org/
 * [PM^2: a Process Mining Project Methodology](http://www.processmining.org/_media/blogs/pub2015/pm2_processminingprojectmethodology.pdf)
 * [IEEE CIS Task Force on Process Mining](https://www.win.tue.nl/ieeetfpm/doku.php)
