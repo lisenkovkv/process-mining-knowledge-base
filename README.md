@@ -4,6 +4,11 @@
 * [Real life Event Logs](https://data.4tu.nl/repository/collection:event_logs_real)
 * [Synthetic Event Logs](https://data.4tu.nl/repository/collection:event_logs_synthetic)
 
+## Algorithms
+* [Workflow Mining:Discovering process models from event logs](http://wwwis.win.tue.nl/~wvdaalst/publications/p245.pdf). $\alpha$-miner
+* [Process Mining with the HeuristicsMiner Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.8288&rep=rep1&type=pdf).  HeuristicsMiner.
+* [Genetic process mining: An experimental evaluation](https://www.researchgate.net/publication/226194368_Genetic_process_mining_An_experimental_evaluation). Genetic miner.
+* [Fuzzy Mining – Adaptive Process Simplification Based on Multi-Perspective Metrics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.1207&rep=rep1&type=pdf). Fuzzy miner.
 ## Core resourses
 * [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
 This manifesto is written by members and supporters of the IEEE Task Force on Process Mining. The goal of this task force is to promote the research, development, education, implementation, evolution, and understanding of process mining.
