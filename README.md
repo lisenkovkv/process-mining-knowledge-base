@@ -9,9 +9,9 @@
 * Alpha+. [Process Mining for Ubiquitous Mobile Systems: An Overview and a Concrete Algorithm](http://wwwis.win.tue.nl/~wvdaalst/publications/p244.pdf)
 * Alpha++. [Mining Process Models with Non-Free-Choice Constructs](http://wwwis.win.tue.nl/~wvdaalst/publications/p394.pdf)
 * Alpha#. [Mining Process Models with Prime InvisibleTasks](http://wwwis.win.tue.nl/~wvdaalst/old/publications/p575.pdf)
-* [Process Mining with the HeuristicsMiner Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.8288&rep=rep1&type=pdf).  HeuristicsMiner.
-* [Genetic process mining: An experimental evaluation](https://www.researchgate.net/publication/226194368_Genetic_process_mining_An_experimental_evaluation). Genetic miner.
-* [Fuzzy Mining – Adaptive Process Simplification Based on Multi-Perspective Metrics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.1207&rep=rep1&type=pdf). Fuzzy miner.
+* HeuristicsMiner. [Process Mining with the HeuristicsMiner Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.8288&rep=rep1&type=pdf).  
+* Genetic miner. [Genetic process mining: An experimental evaluation](https://www.researchgate.net/publication/226194368_Genetic_process_mining_An_experimental_evaluation).
+* Fuzzy miner. [Fuzzy Mining – Adaptive Process Simplification Based on Multi-Perspective Metrics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.1207&rep=rep1&type=pdf). 
 
 ## Core resourses
 * [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
