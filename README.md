@@ -5,6 +5,7 @@
 * [Synthetic Event Logs](https://data.4tu.nl/repository/collection:event_logs_synthetic)
 
 ## Algorithms
+### Process Discovery
 * Alpha (Classis). [Workflow Mining:Discovering process models from event logs](http://wwwis.win.tue.nl/~wvdaalst/publications/p245.pdf).
 * Alpha+. [Process Mining for Ubiquitous Mobile Systems: An Overview and a Concrete Algorithm](http://wwwis.win.tue.nl/~wvdaalst/publications/p244.pdf)
 * Alpha++. [Mining Process Models with Non-Free-Choice Constructs](http://wwwis.win.tue.nl/~wvdaalst/publications/p394.pdf)
