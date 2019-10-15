@@ -1,8 +1,10 @@
 # Process mining
 
-## Datasets
+## Data
 * [Real life Event Logs](https://data.4tu.nl/repository/collection:event_logs_real)
 * [Synthetic Event Logs](https://data.4tu.nl/repository/collection:event_logs_synthetic)
+* [About event logs](http://www.processmining.org/logs/start)
+* [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
 
 ## Algorithms
 ### Process Discovery
@@ -36,7 +38,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [A Primer on Process Mining.Practical Skills with Python and Graphviz](https://www.springer.com/gp/book/9783319564265).The main goal of this book is to explain the core ideas of process mining, and to demonstrate how they can be implemented using just some basic tools that are available to any computer scientist or data scientist. It describes how to analyze event logs in order to discover the behavior of real-world business processes. The end result can often be visualized as a graph, and the book explains how to use Python and Graphviz to render these graphs intuitively. Overall, it enables the reader to implement process mining techniques on his or her own, independently of any specific process mining tool. An introduction to two popular process mining tools, namely Disco and ProM, is also provided.
 
 ## Competitions
-* [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge)
+* [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge). 
 * [Second International Business Process Intelligence Challenge (BPIC’12)](https://www.win.tue.nl/bpi/doku.php?id=2012:challenge)
 * [Third International Business Process Intelligence Challenge (BPIC’13)](https://www.win.tue.nl/bpi/doku.php?id=2013:challenge)
 * [Fourth International Business Process Intelligence Challenge (BPIC’14)](https://www.win.tue.nl/bpi/doku.php?id=2014:challenge)
