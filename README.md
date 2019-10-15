@@ -30,8 +30,9 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [Process Mining Data Science in Action - Wil van der Aalst](https://youtu.be/kIeLaNzw9hI)
 * [Introduction to Event Log Mining with R](https://youtu.be/_KMiEEStB9g). Content: the scenarios and benefits of event log mining; The minimum data required for event log mining; Ingesting and analyzing event log data using R; Process Mining with ProM; Event log mining techniques to create features suitable for Machine Learning models; Where you can learn more about this very handy set of tools and techniques.
 
-## Research divisions
+## Research divisions/Researchers
 * [Laboratory of Process-Aware Information Systems](https://pais.hse.ru/en/)
+* [Andrea Burattin](https://andrea.burattin.net/)
 
 ## Books
 * [Process Mining: Data Science in Action](http://www.processmining.org/book/start). This is the second edition of Wil van der Aalst’s seminal book on process mining, which now discusses the field also in the broader context of data science and big data approaches. It includes several additions and updates, e.g. on inductive mining techniques, the notion of alignments, a considerably expanded section on software tools and a completely new chapter of process mining in the large. It is self-contained, while at the same time covering the entire process-mining spectrum from process discovery to predictive analytics.
