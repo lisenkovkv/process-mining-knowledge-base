@@ -38,6 +38,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [Laboratory of Process-Aware Information Systems](https://pais.hse.ru/en/)
 * [Andrea Burattin](https://andrea.burattin.net/)
 * [Alessandro Berti](http://www.alessandroberti.it/)
+* [Suriadi Suriadi](https://www.researchgate.net/profile/Suriadi_Suriadi)
 
 ## Books
 * [Process Mining: Data Science in Action](http://www.processmining.org/book/start). This is the second edition of Wil van der Aalst’s seminal book on process mining, which now discusses the field also in the broader context of data science and big data approaches. It includes several additions and updates, e.g. on inductive mining techniques, the notion of alignments, a considerably expanded section on software tools and a completely new chapter of process mining in the large. It is self-contained, while at the same time covering the entire process-mining spectrum from process discovery to predictive analytics.
