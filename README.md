@@ -25,7 +25,8 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * Alpha#. [Mining Process Models with Prime InvisibleTasks](http://wwwis.win.tue.nl/~wvdaalst/old/publications/p575.pdf)
 * HeuristicsMiner. [Process Mining with the HeuristicsMiner Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.8288&rep=rep1&type=pdf).  
 * Genetic miner. [Genetic process mining: An experimental evaluation](https://www.researchgate.net/publication/226194368_Genetic_process_mining_An_experimental_evaluation).
-* Fuzzy miner. [Fuzzy Mining – Adaptive Process Simplification Based on Multi-Perspective Metrics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.1207&rep=rep1&type=pdf). 
+* Fuzzy miner. [Fuzzy Mining – Adaptive Process Simplification Based on Multi-Perspective Metrics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.1207&rep=rep1&type=pdf).
+* Integer Linear Programming miner. [Process Mining using Integer Linear Programming](https://pdfs.semanticscholar.org/19c4/c1b7779fcf47cfb7bc2eb214ea27f5a1270c.pdf)
 
 ## Conferences
 * [Process Mining Conference Series](https://icpmconference.org)
