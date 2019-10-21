@@ -1,10 +1,20 @@
 # Process mining
 
+## Core resourses
+* [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
+This manifesto is written by members and supporters of the IEEE Task Force on Process Mining. The goal of this task force is to promote the research, development, education, implementation, evolution, and understanding of process mining.
+* http://www.processmining.org/
+* [PM^2: a Process Mining Project Methodology](http://www.processmining.org/_media/blogs/pub2015/pm2_processminingprojectmethodology.pdf) A methodology to guide the execution of process mining projects.
+* [IEEE CIS Task Force on Process Mining](https://www.win.tue.nl/ieeetfpm/doku.php)  The IEEE has established a Task Force on Process Mining. The goal of Task Force is to promote the research, development, education and understanding of process mining.
+
 ## Data
 * [Real life Event Logs](https://data.4tu.nl/repository/collection:event_logs_real)
 * [Synthetic Event Logs](https://data.4tu.nl/repository/collection:event_logs_synthetic)
 * [About event logs](http://www.processmining.org/logs/start)
 * [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
+
+## Applications
+* [Health Analytics Using Process Mining](http://www.processmining.org/health/start)
 
 ## Algorithms
 ### Process Discovery
@@ -15,13 +25,6 @@
 * HeuristicsMiner. [Process Mining with the HeuristicsMiner Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.8288&rep=rep1&type=pdf).  
 * Genetic miner. [Genetic process mining: An experimental evaluation](https://www.researchgate.net/publication/226194368_Genetic_process_mining_An_experimental_evaluation).
 * Fuzzy miner. [Fuzzy Mining – Adaptive Process Simplification Based on Multi-Perspective Metrics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.1207&rep=rep1&type=pdf). 
-
-## Core resourses
-* [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
-This manifesto is written by members and supporters of the IEEE Task Force on Process Mining. The goal of this task force is to promote the research, development, education, implementation, evolution, and understanding of process mining.
-* http://www.processmining.org/
-* [PM^2: a Process Mining Project Methodology](http://www.processmining.org/_media/blogs/pub2015/pm2_processminingprojectmethodology.pdf) A methodology to guide the execution of process mining projects.
-* [IEEE CIS Task Force on Process Mining](https://www.win.tue.nl/ieeetfpm/doku.php)  The IEEE has established a Task Force on Process Mining. The goal of Task Force is to promote the research, development, education and understanding of process mining.
 
 ## Conferences
 * [Process Mining Conference Series](https://icpmconference.org)
