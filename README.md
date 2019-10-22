@@ -14,8 +14,10 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
 
 ## Applications
-* [Health Analytics Using Process Mining](http://www.processmining.org/health/start)
-* [Understanding Process Behaviours in a Large Insurance Company in Australia: A Case Study](https://www.researchgate.net/publication/262248084_Understanding_Process_Behaviours_in_a_Large_Insurance_Company_in_Australia_A_Case_Study)
+* Healthcare
+** [Health Analytics Using Process Mining](http://www.processmining.org/health/start)
+* Insurance 
+** [Understanding Process Behaviours in a Large Insurance Company in Australia: A Case Study](https://www.researchgate.net/publication/262248084_Understanding_Process_Behaviours_in_a_Large_Insurance_Company_in_Australia_A_Case_Study)
 
 ## Algorithms
 ### Process Discovery
