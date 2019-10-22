@@ -72,6 +72,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [bupaR](https://www.bupar.net/) is an open-source, integrated suite of R-packages for the handling and analysis of business process data. It currently consists of 8 packages, including the central package, supporting different stages of a process mining workflow.
 * [XESame](http://www.processmining.org/xesame/start) is an application that supports in the extraction of an event log from non-event log data sources.
 * [Uma](https://github.com/dfahland/uma) is a Java-library for analyzing and synthesizing Petri net models using unfolding-based techniques.
+* [MXMLib](http://www.processmining.org/tools/mxmlib) is a Java library, used by ProMimport among others, when converting logs to the MXML format.
 
 ## Reviews
 * [Process mining techniques and applications – A systematic mapping study](https://www.sciencedirect.com/science/article/pii/S0957417419303161). The objective of this article is to map the active research topics of process mining and their main publishers by country, periodicals, and conferences. Also extract the reported application studies and classify these by exploration domains or industry segments that are taking advantage of this technique. The applied research method was systematic mapping, which began with 3713 articles. After applying the exclusion criteria, 1278 articles were selected for review.
