@@ -60,6 +60,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [Process Discovery Contest 2017](https://www.win.tue.nl/ieeetfpm/doku.php?id=shared:process_discovery_contest)
 * [Process Discovery Contest 2019](https://icpmconference.org/2019/process-discovery-contest)
 * [Conformance Checking Challenge 2019](https://icpmconference.org/2019/icpm-2019/contests-challenges/1st-conformance-checking-challenge-2019-ccc19/)
+* [Process Discovery Contest 2020](https://icpmconference.org/2020/process-discovery-contest/)
 
 ## Courses
 * [Introduction to process mining with ProM](https://www.futurelearn.com/courses/process-mining)
