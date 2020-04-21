@@ -61,6 +61,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [Process Discovery Contest 2019](https://icpmconference.org/2019/process-discovery-contest)
 * [Conformance Checking Challenge 2019](https://icpmconference.org/2019/icpm-2019/contests-challenges/1st-conformance-checking-challenge-2019-ccc19/)
 * [Process Discovery Contest 2020](https://icpmconference.org/2020/process-discovery-contest/)
+* [Tenth International Business Process Intelligence Challenge (BPIC’20)](https://icpmconference.org/2020/bpi-challenge/)
 
 ## Courses
 * [Introduction to process mining with ProM](https://www.futurelearn.com/courses/process-mining)
@@ -76,6 +77,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [XESame](http://www.processmining.org/xesame/start) is an application that supports in the extraction of an event log from non-event log data sources.
 * [Uma](https://github.com/dfahland/uma) is a Java-library for analyzing and synthesizing Petri net models using unfolding-based techniques.
 * [MXMLib](http://www.processmining.org/tools/mxmlib) is a Java library, used by ProMimport among others, when converting logs to the MXML format.
+* [CPN Tools](http://cpntools.org/). A tool for editing, simulating, and analyzing Colored Petri nets.
 
 ## Reviews
 * [Process mining techniques and applications – A systematic mapping study](https://www.sciencedirect.com/science/article/pii/S0957417419303161). The objective of this article is to map the active research topics of process mining and their main publishers by country, periodicals, and conferences. Also extract the reported application studies and classify these by exploration domains or industry segments that are taking advantage of this technique. The applied research method was systematic mapping, which began with 3713 articles. After applying the exclusion criteria, 1278 articles were selected for review.
