@@ -39,6 +39,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [Process Mining in Python](https://www.youtube.com/watch?v=i6NGHvZyHXY). Short process mining overview by pm4py developer.
 
 ## Research divisions/Researchers
+* [Wil van der Aalst](http://www.padsweb.rwth-aachen.de/wvdaalst/index.html)
 * [Laboratory of Process-Aware Information Systems](https://pais.hse.ru/en/)
 * [Andrea Burattin](https://andrea.burattin.net/)
 * [Alessandro Berti](http://www.alessandroberti.it/)
