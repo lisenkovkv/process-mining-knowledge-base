@@ -35,7 +35,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 
 ## Videos
 * [Process Mining Data Science in Action - Wil van der Aalst](https://youtu.be/kIeLaNzw9hI)
-* [Introduction to Event Log Mining with R](https://youtu.be/_KMiEEStB9g). Content: the scenarios and benefits of event log mining; The minimum data required for event log mining; Ingesting and analyzing event log data using R; Process Mining with ProM; Event log mining techniques to create features suitable for Machine Learning models; Where you can learn more about this very handy set of tools and techniques.
+* [Introduction to Event Log Mining with R](https://youtu.be/_KMiEEStB9g). Content: the scenarios and benefits of event log mining; The minimum data required for event log mining; Ingesting and analyzing event log data using R; Process Mining with ProM.
 * [Process Mining in Python](https://www.youtube.com/watch?v=i6NGHvZyHXY). Short process mining overview by pm4py developer.
 
 ## Research divisions/Researchers
