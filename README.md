@@ -72,6 +72,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [Introduction to process mining with ProM](https://www.futurelearn.com/courses/process-mining)
 * [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
 * [Process mining in healthcare](https://www.futurelearn.com/courses/process-mining-healthcare)
+* [Artificial Intelligence for Business](https://www.udemy.com/course/ai-for-business/)
 
 ## Software
 * [PM4PY](http://pm4py.org/) is a python library that supports (state-of-the-art) process mining algorithms in python. It is completely open source and intended to be used in both academia and industry projects.
