@@ -85,6 +85,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [MXMLib](http://www.processmining.org/tools/mxmlib) is a Java library, used by ProMimport among others, when converting logs to the MXML format.
 * [CPN Tools](http://cpntools.org/). A tool for editing, simulating, and analyzing Colored Petri nets.
 * [visual Miner](http://leemans.ch/visualminer/home/) is a free and open source process mining tool, which makes it easy to explore an event log.
+* [QPR Process Analyzer](https://www.qpr.com/products/qpr-processanalyzer)
 
 ## Reviews
 * [Process mining techniques and applications – A systematic mapping study](https://www.sciencedirect.com/science/article/pii/S0957417419303161). The objective of this article is to map the active research topics of process mining and their main publishers by country, periodicals, and conferences. Also extract the reported application studies and classify these by exploration domains or industry segments that are taking advantage of this technique. The applied research method was systematic mapping, which began with 3713 articles. After applying the exclusion criteria, 1278 articles were selected for review.
