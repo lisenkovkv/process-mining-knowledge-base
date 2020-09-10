@@ -10,6 +10,7 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 ## Data
 * [Real life Event Logs](https://data.4tu.nl/repository/collection:event_logs_real)
 * [Synthetic Event Logs](https://data.4tu.nl/repository/collection:event_logs_synthetic)
+* [IEEE Task Force on Process Mining Event Logs](https://www.tf-pm.org/resources/logs)
 * [About event logs](http://www.processmining.org/logs/start)
 * [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
 
