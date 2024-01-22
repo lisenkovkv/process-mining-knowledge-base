@@ -3,32 +3,34 @@
 ## Core resourses
 * [Process Mining Manifesto](https://www.win.tue.nl/ieeetfpm/downloads/Process%20Mining%20Manifesto.pdf)
 This manifesto is written by members and supporters of the IEEE Task Force on Process Mining. The goal of this task force is to promote the research, development, education, implementation, evolution, and understanding of process mining.
-* http://www.processmining.org/
+* [Process mining](http://www.processmining.org/) The bridge between process science and data science.
 * [PM^2: a Process Mining Project Methodology](https://link.springer.com/content/pdf/10.1007/978-3-319-19069-3_19.pdf) A methodology to guide the execution of process mining projects.
-* [IEEE CIS Task Force on Process Mining](https://www.tf-pm.org/)  The IEEE has established a Task Force on Process Mining. The goal of Task Force is to promote the research, development, education and understanding of process mining.
+* [IEEE CIS Task Force on Process Mining](https://www.tf-pm.org/) The IEEE has established a Task Force on Process Mining. The goal of Task Force is to promote the research, development, education and understanding of process mining.
 
 ## Data
-* [Real life Event Logs](https://data.4tu.nl/repository/collection:event_logs_real)
-* [Synthetic Event Logs](https://data.4tu.nl/repository/collection:event_logs_synthetic)
+* [Real life Event Logs](https://data.4tu.nl/search?search=%22real%20life%20event%20logs%22)
+* [Synthetic Event Logs](https://data.4tu.nl/search?search=%22Synthetic+Event+Logs%22)
+* [Event logs](https://data.4tu.nl/search?search=%22Event%20logs%22)
+* [BPI Challenge 2020 Event Logs](https://data.4tu.nl/collections/6bcb71ec-6e2e-4837-a899-624367f1c36b)
 * [IEEE Task Force on Process Mining Event Logs](https://www.tf-pm.org/resources/logs)
 * [About event logs](https://www.processmining.org/event-data.html)
 * [IEEE 1849-2016 XES Standard](http://www.xes-standard.org/)
 
 ## Applications
 ### Healthcare
-* [Health Analytics Using Process Mining](http://www.processmining.org/health/start)
+* [Using Process Mining in Healthcare](https://link.springer.com/chapter/10.1007/978-3-031-08848-3_14)
 ### Insurance 
 * [Understanding Process Behaviours in a Large Insurance Company in Australia: A Case Study](https://www.researchgate.net/publication/262248084_Understanding_Process_Behaviours_in_a_Large_Insurance_Company_in_Australia_A_Case_Study)
 
 ## Algorithms
 ### Process Discovery
-* Alpha (Classis). [Workflow Mining:Discovering process models from event logs](http://wwwis.win.tue.nl/~wvdaalst/publications/p245.pdf).
-* Alpha+. [Process Mining for Ubiquitous Mobile Systems: An Overview and a Concrete Algorithm](http://wwwis.win.tue.nl/~wvdaalst/publications/p244.pdf)
-* Alpha++. [Mining Process Models with Non-Free-Choice Constructs](http://wwwis.win.tue.nl/~wvdaalst/publications/p394.pdf)
-* Alpha#. [Mining Process Models with Prime InvisibleTasks](http://wwwis.win.tue.nl/~wvdaalst/old/publications/p575.pdf)
-* HeuristicsMiner. [Process Mining with the HeuristicsMiner Algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.8288&rep=rep1&type=pdf).  
-* Genetic miner. [Genetic process mining: An experimental evaluation](https://www.researchgate.net/publication/226194368_Genetic_process_mining_An_experimental_evaluation).
-* Fuzzy miner. [Fuzzy Mining – Adaptive Process Simplification Based on Multi-Perspective Metrics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.1207&rep=rep1&type=pdf).
+* Alpha (Classis). [Workflow Mining:Discovering process models from event logs](https://www.researchgate.net/publication/3297301_Workflow_Mining_Discovering_Process_Models_from_Event_Logs).
+* Alpha+. [Process Mining for Ubiquitous Mobile Systems: An Overview and a Concrete Algorithm](https://www.researchgate.net/publication/220921191_Process_Mining_for_Ubiquitous_Mobile_Systems_An_Overview_and_a_Concrete_Algorithm)
+* Alpha++. [Mining Process Models with Non-Free-Choice Constructs](https://www.researchgate.net/publication/220451684_Mining_process_models_with_non-free-choice_Constructs)
+* Alpha#. [Mining Process Models with Prime InvisibleTasks](https://www.researchgate.net/publication/222684024_Mining_Process_Models_with_Prime_Invisible_Tasks)
+* HeuristicsMiner. [Process Mining with the Heuristics Miner Algorithm](https://www.researchgate.net/publication/229124308_Process_Mining_with_the_Heuristics_Miner-algorithm)
+* Genetic miner. [Genetic process mining: An experimental evaluation](https://www.researchgate.net/publication/226194368_Genetic_process_mining_An_experimental_evaluation)
+* Fuzzy miner. [Fuzzy Mining – Adaptive Process Simplification Based on Multi-Perspective Metrics](hhttps://www.researchgate.net/publication/221586306_Fuzzy_Mining_-_Adaptive_Process_Simplification_Based_on_Multi-perspective_Metrics)
 * Integer Linear Programming miner. [Process Mining using Integer Linear Programming](https://pdfs.semanticscholar.org/19c4/c1b7779fcf47cfb7bc2eb214ea27f5a1270c.pdf)
 
 ## Conferences
