@@ -105,3 +105,52 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 
 ## Implementation (ProM)
 * Inter-Level Replayer plug-in for the Security package. [Paper](https://www.sciencedirect.com/science/article/pii/S0167404817302262). [Dataset](https://svn.win.tue.nl/repos/prom/Packages/Security/Trunk/example/healthcareProcess/).
+
+## Process Mining Conference 2023
+### PODS4H23
+* https://drive.google.com/file/d/1w1ivYeeKD5b5ohnsO5FcBSO0IJsMnXlH/view?usp=sharing
+* https://drive.google.com/file/d/1fXD_fMI2z7Q3MBV9BU6IrTXx5dBrn5dl/view?usp=sharing
+
+### Research track
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/11/Data-Driven-Goal-Recognition-in-Transhumeral-Prostheses-Using-Process-Mining-Techniques.pdf
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/11/Plan-Recognition-as-Probabilistic-Trace-Alignment.pdf
+* https://www.slideshare.net/MarlonDumas/discovery-and-simulation-of-business-processes-with-probabilistic-resource-availability-calendars
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/11/Runtime-Integration-of-Machine-Learning-and-Simulation-for-Business-Processes.pdf
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/11/Manifold-Learning-for-Adversarial-Robustness-in-Predictive-Process-Monitoring.pdf https://alexanderpaulstevens.github.io
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/12/ICPM2023_kabierski_log_completeness.pdf
+* https://adamburkeware.net/papers/burke_et_al_ssnap_slides_icpm2023.pdf https://github.com/adamburkegh/statesnap-miner
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/11/A-Fresh-Approach-To-Analyze-Process-Outcomes.pdf https://github.com/IBM/rulelearn
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/12/ICPM-presentation.pdf
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/11/Business-Process-Deviation-Prediction.pdf
+*https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/11/Enhancing-the-Applicability-of-the-eST-Miner-Efficient-Precision-Guided-Implicit-Place-Avoidance.pdf
+
+### Research track keynote
+* https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/11/Stochstically-Known-Logs.pdf
+
+### Industry track keynote
+* https://www.slideshare.net/MarlonDumas/walking-the-way-from-process-mining-to-aidriven-process-optimization https://github.com/AutomatedProcessImprovement/Simod
+
+### Doctoral Consortium keynote
+https://icpmconference.org/2023/wp-content/uploads/sites/8/2023/10/ICPM2023_DC_keynote.pdf
+
+### ML4PM 2023 FOURTH INTERNATIONAL WORKSHOP ON LEVERAGING MACHINE LEARNING IN PROCESS MINING
+* https://ml4pm2023.di.unimi.it/preproceedings/Keynote-ML4PM2023-JochenDeWeerdt.pdf
+* https://ml4pm2023.di.unimi.it/preproceedings/ICPM_2023_paper_904.pdf
+* https://ml4pm2023.di.unimi.it/preproceedings/ICPM_2023_paper_2001.pdf
+* https://ml4pm2023.di.unimi.it/preproceedings/ICPM_2023_paper_3400.pdf
+* https://ml4pm2023.di.unimi.it/preproceedings/ICPM2023presentation.pptx
+* https://ml4pm2023.di.unimi.it/preproceedings/ICPM_2023_paper_5347.pdf
+* https://ml4pm2023.di.unimi.it/preproceedings/ICPM_2023_paper_1709.pdf
+* https://ml4pm2023.di.unimi.it/preproceedings/ICPM_2023_paper_3645-2.pdf
+
+### EdbA'23 - Fourth International Workshop on Event Data and  Behavioral Analytics
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_2170.pdf
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_1065.pdf
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_980.pdf
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_2954.pdf
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_3071.pdf
+* https://drive.google.com/file/d/1Cpg0uqB6OGUCRt-FuuytETh8rocYV5kG/view?usp=drivesdk
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_8632.pdf
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_8898.pdf
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_5670.pdf
+* http://edba.science/wp-content/uploads/2023/10/ICPM_2023_paper_7205.pdf
