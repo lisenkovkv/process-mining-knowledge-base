@@ -56,14 +56,14 @@ This manifesto is written by members and supporters of the IEEE Task Force on Pr
 * [A Primer on Process Mining.Practical Skills with Python and Graphviz](https://www.springer.com/gp/book/9783319564265).The main goal of this book is to explain the core ideas of process mining, and to demonstrate how they can be implemented using just some basic tools that are available to any computer scientist or data scientist. It describes how to analyze event logs in order to discover the behavior of real-world business processes. The end result can often be visualized as a graph, and the book explains how to use Python and Graphviz to render these graphs intuitively. Overall, it enables the reader to implement process mining techniques on his or her own, independently of any specific process mining tool. An introduction to two popular process mining tools, namely Disco and ProM, is also provided + [github](https://github.com/diogoff/primer-process-mining)
 
 ## Competitions
-* [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/doku.php?id=2011:challenge). 
-* [Second International Business Process Intelligence Challenge (BPIC’12)](https://www.win.tue.nl/bpi/doku.php?id=2012:challenge)
-* [Third International Business Process Intelligence Challenge (BPIC’13)](https://www.win.tue.nl/bpi/doku.php?id=2013:challenge)
-* [Fourth International Business Process Intelligence Challenge (BPIC’14)](https://www.win.tue.nl/bpi/doku.php?id=2014:challenge)
-* [Fifth International Business Process Intelligence Challenge (BPIC’15)](https://www.win.tue.nl/bpi/doku.php?id=2015:challenge)
-* [Sixth International Business Process Intelligence Challenge (BPIC’16)](https://www.win.tue.nl/bpi/doku.php?id=2016:challenge)
-* [Seventh International Business Process Intelligence Challenge (BPIC’17)](https://www.win.tue.nl/bpi/doku.php?id=2017:challenge)
-* [Eighth International Business Process Intelligence Challenge (BPIC’18)](https://www.win.tue.nl/bpi/doku.php?id=2018:challenge)
+* [First International Business Process Intelligence Challenge (BPIC’11)](https://www.win.tue.nl/bpi/2011/challenge.html). 
+* [Second International Business Process Intelligence Challenge (BPIC’12)](https://www.win.tue.nl/bpi/2012/challenge.html)
+* [Third International Business Process Intelligence Challenge (BPIC’13)](https://www.win.tue.nl/bpi/2013/challenge.html)
+* [Fourth International Business Process Intelligence Challenge (BPIC’14)](https://www.win.tue.nl/bpi/2014/challenge.html)
+* [Fifth International Business Process Intelligence Challenge (BPIC’15)](https://www.win.tue.nl/bpi/2015/challenge.html)
+* [Sixth International Business Process Intelligence Challenge (BPIC’16)](https://www.win.tue.nl/bpi/2016/challenge.html)
+* [Seventh International Business Process Intelligence Challenge (BPIC’17)](https://www.win.tue.nl/bpi/2017/challenge.html)
+* [Eighth International Business Process Intelligence Challenge (BPIC’18)](https://www.win.tue.nl/bpi/2018/challenge.html)
 * [Ninth International Business Process Intelligence Challenge (BPIC’19)](https://icpmconference.org/2019/icpm-2019/contests-challenges/bpi-challenge-2019/)
 * [Process Discovery Contest 2017](https://www.win.tue.nl/ieeetfpm/doku.php?id=shared:process_discovery_contest)
 * [Process Discovery Contest 2019](https://icpmconference.org/2019/process-discovery-contest)
